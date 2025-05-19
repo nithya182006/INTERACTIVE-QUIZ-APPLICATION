@@ -11,7 +11,7 @@
  "DURATION" : 4 WEEKS
 
  "MENTOR" : NEELA SANTHOSH  
- Here’s a **short paragraph** describing how you performed the task:
+
 
 ---
 
