@@ -20,4 +20,6 @@ To create the interactive quiz app, I started by setting up a basic project stru
 OUTPUT:
 ![Image](https://github.com/user-attachments/assets/4abe7308-645f-484c-9958-a3f3dfedaea9)
 
+![Image](https://github.com/user-attachments/assets/cdd03e80-0642-4866-bc47-227147b8d4b4)
+
  
